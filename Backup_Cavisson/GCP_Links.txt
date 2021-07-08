@@ -1,0 +1,58 @@
+learngcpwithedureka@gmail.com
+https://docs.google.com/spreadsheets/d/1AaQEJfD8FQHDZlPB0wvHR_LY0z9m9-rNrlwW2b9Y7U4/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1LG4IBlkQ5S2Y_peUl0cL0r3JSaWVcj7fBkvmiGjzda8/edit?usp=sharing
+https://google.qwiklabs.com/users/sign_in?qlcampaign=1m-certprep-674
+https://sathishvj.medium.com/notes-from-my-google-cloud-professional-cloud-architect-exam-bbc4299ac30
+
+Create account on cloud.google.com
+qwiklabs.com
+https://go.qwiklabs.com/qwiklabs-free
+1m-freelabs-339 - Code for first lab
+Username : student-00-c84f028d1609@qwiklabs.net
+password : 82ZX46Gg9fz
+Projectid : qwiklabs-gcp-00-cb56966971a7
+
+https://cloudonair.withgoogle.com/handsonlearning
+https://cloud.google.com/docs/compare/aws
+https://www.youtube.com/watch?v=eYj3a9RsA5s&utm_source=lms&utm_medium=gcp&utm_campaign=what-is-gcp-210219
+
+gsutil ls gs://BucketName
+gcloud config set project learngcpwithedureka
+
+Dynamic VPN gateways - cloud router
+examtopics.com
+
+1. VM created using UI under compute engine.
+2. Can also create VM from command line.
+3. Default region and zone can be provided. Persistent disk of 10G gets allocated from the same region or zone.
+
+https://docs.google.com/spreadsheets/d/1AaQEJfD8FQHDZlPB0wvHR_LY0z9m9-rNrlwW2b9Y7U4/edit?usp=sharing
+
+what kind of questions might come from load balancer, auto scaling and cloud functions in certification exam?
+
+Load balancer
+MIG - Managed instances group
+Backend services
+templates
+
+Cloud func
+kind of func
+
+autoscaling
+how to do
+can we deploy in MIG
+Macs
+
+BLOB
+sharding of DB
+hbase - big table
+hadoop
+
+https://docs.google.com/spreadsheets/d/1AaQEJfD8FQHDZlPB0wvHR_LY0z9m9-rNrlwW2b9Y7U4/edit?usp=sharing
+https://google.qwiklabs.com/quests/143
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+
+https://cloud.google.com/architecture/blueprints/gke-pci-dss-blueprint
+examtopics.com
+https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
+shubam.shubh@gmail.com
